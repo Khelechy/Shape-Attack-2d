@@ -1,7 +1,7 @@
 # Shape-Attack-2d
 ## 2d Hyper Casual Mobile Game
-### //@author Onyekwere Kelechi Mark(khelechy)
-### //Github: www.github.com/khelechy
+### @author Onyekwere Kelechi Mark(khelechy)
+### Github: www.github.com/khelechy
 
 
 
@@ -16,10 +16,10 @@ _*Ground written Scripts in C# , commented, Readable and Understandable to begin
 
 ## One Tap Mechanic, Optimised to fit all mobile screens
 
-## Clone Project and Open
+## Star, Clone Project and Open
 
 
-#ScreenShots
+# ScreenShots
 
 ![Editor](https://github.com/Khelechy/Bubble-Burst-2d/blob/master/editor.png)
 
